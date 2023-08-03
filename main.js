@@ -8,8 +8,8 @@
 
 
 function greeting() {
-    let name = prompt("Введите Ваше имя?");
-    result = `Здравствуй, ${name}!`;
+    let name = prompt("Введите Ваше имя");
+    result = `Здравствуйте, ${name}!`;
     alert(result);
 };
 
